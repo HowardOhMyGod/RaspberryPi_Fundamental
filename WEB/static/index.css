@@ -1,0 +1,10 @@
+* {
+    border: solid 1px black;
+}
+
+.open, .close {
+    width: 200px;
+    height: 100px;
+    border: solid 2px black;
+    display: inline-block;
+}
